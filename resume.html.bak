@@ -3,7 +3,7 @@
   <head>
     <title>resume</title>
 	   <link rel="stylesheet" href="icofont">
-       <link rel="stylesheet" href="main.css">
+       <link rel="stylesheet" href="style.css">
   </head> 
       <body>
 	  <!---------  container starts---------->
@@ -39,7 +39,7 @@
             <section class="text5">
                 <h2>SKILL</h2>
 				   <div class="skill">
-                      <img class="figure1"src="D:\Task\task-4\assets\image\skill-pic.png">
+                      <img class="figure1"src="./image/skill-pic.png">
                          <p>Loren ipsum dolor sir amet,consectetur adipiscing elit.Integer eget rhoncus feli Suspendisse dui metus,viverra et<br>
                            semper sed pellentesque et ligula.Suspendisse dui metus,viverra et semper sed</p>
                    </div>						   
@@ -54,7 +54,7 @@
             <section class="figure">
                 <h2>EDUCATION</h2>
 				    <div class="skill2">
-                   	   <img class="figure2" src="D:\Task\task-4\assets\image\education.png">			
+                   	   <img class="figure2" src="./image/education.png">			
 		                    <p>Loren ipsum dolor sir amet,consectetur adipiscing elit.Integer eget rhoncus feli Suspendisse dui metus,viverra et<br>
                               semper sed pellentesque et ligula.Suspendisse dui metus,viverra</p>
 					</div>
@@ -97,7 +97,7 @@
             <section class="text5">
 			    <h2>PROJECT</h2>
 				    <div class="skill3">
-				       <img class="figure3"src="D:\Task\task-4\assets\image\project-pic.png">
+				       <img class="figure3"src="./image/project-pic.png">
                           <p>Loren ipsum dolor sir amet,consectetur adipiscing elit.Integer eget rhoncus feli Suspendisse dui metus,viverra et<br>
                            semper sed pellentesque et ligula.Suspendisse dui metus,viverra</p>	
                     </div>
@@ -133,8 +133,8 @@
 	  <!--------- text7 ends------------------->
 	  <!--------- sample starts--------------------->
             <section class="sample">
-                <a href="#"><h3>www.sample.com</h3></a>
-				   <a href="#"><h4>All rights reserved</h4></a>
+                <a href="sample"><h3>www.sample.com</h3></a>
+				   <a href="All rights reserved"><h4>All rights reserved</h4></a>
 		    </section>
 	  <!--------- sample ends---------->
          

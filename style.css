@@ -7,7 +7,6 @@
 .container{
 	    width:1140px;
 		margin:0 auto;
-		background-color:#F0FFF0;
 		padding:20px 30px;
 }
 .image{
@@ -22,6 +21,11 @@
 	 height:100px;
 	 margin:-10px;
 	 border:solid;
+ }
+ .button{
+	 padding:20px 10px;
+	 margin-top:30px;
+	 display:inline-block;
  }
 	     
  .task {
@@ -57,6 +61,10 @@
  .skill2{
 	 display:flex;
  }
+ .skill3{
+	 display:flex;
+ }
+	 
 		
 	   
  .text2{
@@ -123,7 +131,7 @@
 .team1{
 	    border-left:2px solid gray;
 		width:907px;
-		margin:17px;
+		margin:23px;
 		padding:0px;
 }
 .team{
@@ -142,7 +150,7 @@
 .team2{
 	    border-left:2px solid gray;
 		width:907px;
-		margin:17px;
+		margin:23px;
 		padding:0px;
 }
 .team-a{
@@ -161,7 +169,7 @@
 	    border-left:2px solid gray;
 		width:907px;
 		padding:0px;
-		margin:18px;
+		margin:23px;
 		
 }
 .team-b{
@@ -205,6 +213,7 @@
 .text7 h2{
 	    color:#696969;
 }
+
 
 
 .assets1{
